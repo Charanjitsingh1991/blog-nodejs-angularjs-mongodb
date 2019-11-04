@@ -1,2 +1,0 @@
-# blog-nodejs-angularjs-mongodb
- 
