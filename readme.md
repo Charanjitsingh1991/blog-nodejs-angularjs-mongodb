@@ -1,6 +1,6 @@
 The complete Blog with login and publish articles and Perform actions CRUD using Angularjs, Nodejs with the help oh Expressjs and Mongodb 
 Author:- Charanjit Singh
-For More Programming Visit:- https://tutsin.in
+For More Tutorials Visit:- https://tutsin.in
 
 # packaged angular-route
 
