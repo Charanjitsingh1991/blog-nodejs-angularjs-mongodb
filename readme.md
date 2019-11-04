@@ -1,3 +1,7 @@
+The complete Blog with login and publish articles and Perform actions CRUD using Angularjs, Nodejs with the help oh Expressjs and Mongodb 
+Author:- Charanjit Singh
+For More Programming Visit:- https://tutsin.in
+
 # packaged angular-route
 
 This repo is for distribution on `npm` and `bower`. The source for this module is in the
